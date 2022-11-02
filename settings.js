@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = 'ඔන්ලයින් තමා හුත්තෝ මොකක්ද වෙන්න ඔනි'
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -36,7 +36,7 @@ global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://ibb.co/cCY5VtB` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://ibb.co/cCY5VtB` // alive picture \\ use "https://ibb.co/QMLjsqs" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
